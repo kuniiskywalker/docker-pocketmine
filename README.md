@@ -3,7 +3,8 @@ docker-pocketmine
 
 This is Docker image for a PocketMine-MP server.
 
-# Pull PocketMine-MP
+Pull PocketMine-MP
+--------------------
 
 Download submodified Pociketmine-MP source
 
@@ -11,7 +12,8 @@ Download submodified Pociketmine-MP source
 git submodule update --init --recursive
 ```
 
-# Build docker image
+Build docker image
+--------------------
 
 Create a Docker image
 
