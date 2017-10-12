@@ -6,7 +6,7 @@ This is Docker image for a PocketMine-MP server.
 Pull PocketMine-MP
 --------------------
 
-Download submodified Pociketmine-MP source
+Download submodularized Pociketmine-MP source
 
 ```
 git submodule update --init --recursive
